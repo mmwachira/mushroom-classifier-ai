@@ -8,4 +8,6 @@ Step 1: clone the repository using the git command or download the zip file.
 Step 2: execute the requirements.txt in the virtual environment.
 step 3: run app.py file. 
 
+Enjoy!
+
 
